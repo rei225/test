@@ -1,0 +1,19 @@
+current directory: /Users/r.kojima/memo-app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+/Users/r.kojima/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200317-1443-1q8swa4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/r.kojima/memo-app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/r.kojima/memo-app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/r.kojima/memo-app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200317-1443-1h3mypz/byebug
